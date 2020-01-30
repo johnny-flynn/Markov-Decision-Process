@@ -1,0 +1,12 @@
+To run this code, All you have to do is type: python3.7 MDP.py
+
+Learning Outcome: This particular project was challenging for me to wrap my mind around. I understood the equation but when it came to actually sitting down and
+trying to transfer the barebones logic into code, I struggled. After spending some time drawing out operations over the weekend it clicked and I was able to sit 
+down and transfer that table operations based off the different moves inside looping for if else statements. I enjoy state diagrams and I liked tackling the idea of some
+randomness being intruduced. Similar to the prolog assignment I plan to continue to play with these. (I also learned that I should have heeded your warning about 
+not taking one of the early programming assignments off as I have been very busy and was lucky to finish this.)
+
+My favorite thing about CS463: I really enjoied that we were able to really get hands on applicable programming experience. I have taken plenty of classes where 
+we do learn allot of great things, however we rarely make the jump to apply it to actual code. The projects were rarly simple and I have spent allot of time working
+ through them but I am a better programmer for it. I also really like the format of the final/midterm where we get to do some individual research into topics we are 
+ interested in. Finally, I liked that ethics were included. 
